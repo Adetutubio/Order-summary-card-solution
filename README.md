@@ -23,8 +23,8 @@ This is a solution to the Order summary card challenge on Frontend Mentor which 
 
 
 ### What I learned
-- Here I learnt how to use structural markup which includes elements such as <h1>, <h2>, and <p> and 
-semantic markup which includes elements such as <strong> and <em>;
+
+- Here I learnt how to use structural markup which includes elements such as h1, h2, and p and semantic markup which includes elements such as strong and em;
 ```html
 <h1>Order Summary</h1>
 <p> You can now listen to millions of songs,<br>
