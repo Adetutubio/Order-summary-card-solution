@@ -23,10 +23,7 @@ This is a solution to the Order summary card challenge on Frontend Mentor which 
 
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-Here I learnt how to use structural markup which includes elements such as <h1>, <h2>, and <p> and 
+- Here I learnt how to use structural markup which includes elements such as <h1>, <h2>, and <p> and 
 semantic markup which includes elements such as <strong> and <em>;
 ```html
 <h1>Order Summary</h1>
@@ -36,7 +33,7 @@ semantic markup which includes elements such as <strong> and <em>;
 <strong> Annual Plan </strong>
 ```
 
-Here I learnt that to avoid a repitiion of the background image, the 'background-repeat' property should be used;
+- Here I learnt that to avoid a repitiion of the background image, the 'background-repeat' property should be used;
 ```css
   body {
     background-image: url("./images/pattern-background-desktop.svg");
@@ -45,7 +42,7 @@ Here I learnt that to avoid a repitiion of the background image, the 'background
   }
 ```
 
-Here I learnt that If you are using the display property to define your div as a flex container, you have to use the justify-content property to center text horizontally within the div;
+- Here I learnt that If you are using the display property to define your div as a flex container, you have to use the justify-content property to center text horizontally within the div;
 ```css
   body {
     display: flex;
@@ -53,7 +50,6 @@ Here I learnt that If you are using the display property to define your div as a
     justify-content: center;
   }
 ```
-
 
 ### Continued development
 
@@ -71,7 +67,7 @@ Here I learnt that If you are using the display property to define your div as a
 - Resource 4 - Book - HTML & CSS Design and Build Websites By Jon Duckett - I highly recommend this book for both newbies and professionals who wants to have a great knowledge of HTML and CSS and those who want to learn how to design and build websites from scratch.
 
 ## Author
-
+        
 - GitHub - [AdetutuBio](https://github.com/Adetutubio)
 - Frontend Mentor - [@Adetutubio](https://www.frontendmentor.io/profile/Adetutubio)
 - Twitter - [@adetutuoluwa](https://twitter.com/adetutuoluwa2)
