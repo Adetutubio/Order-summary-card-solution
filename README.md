@@ -12,6 +12,7 @@ This is a solution to the Order summary card challenge on Frontend Mentor which 
 ### Links
 
 - Solution URL: (https://github.com/Adetutubio/Order-summary-card-solution)
+- Solution URL: (https://adetutubio.github.io/Order-summary-card-solution/)
 
 ## My process
 
